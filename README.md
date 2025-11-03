@@ -1,9 +1,9 @@
 ## Hi there 👋 It's me Anandhavignesh
 
--Master of Computer application Student
--Crypto Engineer
--Backend dev..
--ALGO DEV & Trader
+### Master of Computer application Student
+### Crypto Engineer
+### Backend dev..
+### ALGO DEV & Trader
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">            
 - 🌱 I’m currently learning  DSA and Integrating AI & Web 3.o
 - ⚡ Fun fact: I know English.
@@ -15,5 +15,5 @@
 <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/bitcoin--v1.png" alt="bitcoin--v1"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/exchange-money-ethereum.png" alt="exchange-money-ethereum"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/tradingview.png" alt="tradingview"/> <img width="50" height="50" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-trading-fintech-kmg-design-outline-color-kmg-design.png" alt="external-trading-fintech-kmg-design-outline-color-kmg-design"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/bot.png" alt="bot"/> <img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-basic-outline-smashing-stocks/53/external-blockchain-blockchain-cryptocurrency-smashingstocks-basic-outline-smashing-stocks-6.png" alt="external-blockchain-blockchain-cryptocurrency-smashingstocks-basic-outline-smashing-stocks-6"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/50/tradingview.png" alt="tradingview"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/50/tradingview.png" alt="tradingview"/> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
